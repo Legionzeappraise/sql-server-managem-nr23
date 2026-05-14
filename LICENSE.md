@@ -1,4 +1,4 @@
-# 
+# SQL Server Management Studio for PC | SQL Server Management Studio for Windows top Script: version-control-integration & query-editor offers the most advanced SQL Server
 
 
 
